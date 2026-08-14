@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  src: url(https://br-winter-boat-ajcnusyq.storage.c-3.us-east-2.aws.neon.tech/tibly-site-media/sites/a47daa1f-b25f-423b-a42f-0685ad8f5f16/74b25ffa92fcfbce242df14b6a688ecd.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://br-winter-boat-ajcnusyq.storage.c-3.us-east-2.aws.neon.tech/tibly-site-media/sites/a47daa1f-b25f-423b-a42f-0685ad8f5f16/11e60461b169817872c00eac03dc5afd.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://br-winter-boat-ajcnusyq.storage.c-3.us-east-2.aws.neon.tech/tibly-site-media/sites/a47daa1f-b25f-423b-a42f-0685ad8f5f16/782b95b7935987c26ddf1d8962d55570.ttf) format('truetype');
+}
